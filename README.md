@@ -1,5 +1,5 @@
 - 👋 Bonjour, je m'appelle Léo BERNARD @Leo-BERNARD38
-- 👀 Je suis actuellement en DUT Informatique
+- 👀 Je suis actuellement en Master Informatique
 - 📫 Vous pouvez me contacter ici : leo.bernard1@etu.univ-lorraine.fr
 
 <!---
