@@ -44,7 +44,7 @@ const profile = {
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **PERFMANAGER**  
 *Développeur Full-Stack*
@@ -54,7 +54,7 @@ const profile = {
 Solutions web performantes et architectures scalables pour l'entreprise.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 **GreenWITS**  
 *Développeur - OptiWITS*
@@ -64,35 +64,34 @@ Solutions web performantes et architectures scalables pour l'entreprise.
 Développement de solutions d'optimisation avec technologies modernes.
 
 </td>
+<td width="33%" valign="top">
+
+**CampingCarPartner.fr**  
+*Développeur Web*
+
+`PHP` `jQuery` `MySQL`
+
+Développement d'une solution web complète pour la communauté camping-car.
+
+</td>
 </tr>
 </table>
 
 ---
 
-## 🎯 Projets
+## 🎯 Projet Personnel
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td align="center">
 
 ### [ModNation.fr](https://modnation.fr)
-**Projet Personnel**
 
 <img src="https://img.shields.io/badge/React-000?style=flat&logo=react&logoColor=FF4D00"/> <img src="https://img.shields.io/badge/Laravel-000?style=flat&logo=laravel&logoColor=FF4D00"/> <img src="https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=FF4D00"/> <img src="https://img.shields.io/badge/MySQL-000?style=flat&logo=mysql&logoColor=FF4D00"/>
 
-Plateforme communautaire dédiée aux passionnés de ModNation Racers. Architecture full-stack moderne.
-
-</td>
-<td width="50%" align="center">
-
-### [CampingCarPartner.fr](https://campingcarpartner.fr)
-**Projet Client**
-
-<img src="https://img.shields.io/badge/PHP-000?style=flat&logo=php&logoColor=FF4D00"/> <img src="https://img.shields.io/badge/jQuery-000?style=flat&logo=jquery&logoColor=FF4D00"/> <img src="https://img.shields.io/badge/MySQL-000?style=flat&logo=mysql&logoColor=FF4D00"/>
-
-Développement d'une solution web complète pour la communauté camping-car.
+Plateforme communautaire dédiée aux passionnés automobiles. Architecture full-stack moderne avec système de membres et partage de contenu.
 
 </td>
 </tr>
@@ -147,10 +146,12 @@ Développement d'une solution web complète pour la communauté camping-car.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Leo-BERNARD38&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FF4D00&icon_color=FF4D00&text_color=ffffff&border_radius=10" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Leo-BERNARD38&theme=dark&hide_border=true&background=000000&stroke=FF4D00&ring=FF4D00&fire=FF4D00&currStreakLabel=ffffff&border_radius=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Leo-BERNARD38&show_icons=true&hide_border=true&bg_color=000000&title_color=FF4D00&icon_color=FF4D00&text_color=ffffff&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Leo-BERNARD38&theme=dark&hide_border=true&background=000000&stroke=FF4D00&ring=FF4D00&fire=FF4D00&currStreakLabel=ffffff" alt="GitHub Streak" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-BERNARD38&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FF4D00&text_color=ffffff&border_radius=10" />
+<br><br>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-BERNARD38&layout=compact&hide_border=true&bg_color=000000&title_color=FF4D00&text_color=ffffff&langs_count=8" alt="Top Languages" />
 
 </div>
 
