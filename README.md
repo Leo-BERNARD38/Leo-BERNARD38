@@ -57,7 +57,7 @@ Solutions web performantes et architectures scalables pour l'entreprise.
 <td width="33%" valign="top">
 
 **GreenWITS**  
-*Développeur - OptiWITS*
+*Développeur Full-Stack & Designer*
 
 `React` `Python` `MongoDB`
 
@@ -67,11 +67,11 @@ Développement de solutions d'optimisation avec technologies modernes.
 <td width="33%" valign="top">
 
 **CampingCarPartner.fr**  
-*Développeur Web*
+*Développeur Web & Designer*
 
 `PHP` `jQuery` `MySQL`
 
-Développement d'une solution web complète pour la communauté camping-car.
+Développement d'une solution web complète pour Camping-Car Partner.
 
 </td>
 </tr>
@@ -137,21 +137,6 @@ Plateforme communautaire dédiée aux passionnés automobiles. Architecture full
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Leo-BERNARD38&show_icons=true&hide_border=true&bg_color=000000&title_color=FF4D00&icon_color=FF4D00&text_color=ffffff&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=Leo-BERNARD38&theme=dark&hide_border=true&background=000000&stroke=FF4D00&ring=FF4D00&fire=FF4D00&currStreakLabel=ffffff" alt="GitHub Streak" />
-
-<br><br>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-BERNARD38&layout=compact&hide_border=true&bg_color=000000&title_color=FF4D00&text_color=ffffff&langs_count=8" alt="Top Languages" />
 
 </div>
 
