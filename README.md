@@ -1,54 +1,67 @@
 <div align="center">
-  
-# 👨‍💻 Léo BERNARD
 
-### Développeur Full-Stack | Créateur Digital | Passionné de Tech
+# Léo BERNARD
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://leo-bernard38.github.io/portfolio-2026/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l%C3%A9o-bernard-wnt)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leobernard712@gmail.com)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF4D00&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+Full-Stack;UX%2FUI+Designer;Cr%C3%A9ateur+d'exp%C3%A9riences+digitales" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=react&logoColor=FF4D00)](https://leo-bernard38.github.io/portfolio-2026/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=FF4D00)](https://www.linkedin.com/in/l%C3%A9o-bernard-wnt)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=FF4D00)](mailto:leobernard712@gmail.com)
 
 </div>
 
----
+<br>
 
-## 🚀 À propos de moi
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+### 👋 Bienvenue sur mon profil
+
+**Développeur Full-Stack** chez **PERFMANAGER**  
+🎓 Master Informatique - Création & Intégration Multimédia
+
+Je conçois des interfaces modernes et des architectures robustes, en alliant créativité et performance technique.
+
+<br>
 
 ```javascript
-const leo = {
-    localisation: "France 🇫🇷",
-    poste: "Développeur Full-Stack @ PERFMANAGER",
-    diplome: "Master Informatique - Création et Intégration Multimédia",
-    passion: ["Développement Web", "Innovation", "Open Source"],
-    actuellement: "Je construis des expériences web modernes et performantes",
-    funFact: "Je transforme le café en code ☕ → 💻"
-};
+const profile = {
+    code: ["JavaScript", "PHP", "Python"],
+    frontend: ["Angular", "React", "Nuxt.js"],
+    backend: ["Symfony", "Laravel"],
+    databases: ["MySQL", "MongoDB"],
+    currentFocus: "Expériences utilisateur innovantes",
+    location: "France 🇫🇷"
+}
 ```
+
+<br clear="right"/>
 
 ---
 
-## 💼 Expérience Professionnelle
+## 💼 Expériences
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏢 PERFMANAGER
-**Développeur Full-Stack**
-- Angular, Symfony, Nuxt.js
-- Architecture SQL performante
-- Solutions web d'entreprise
+**PERFMANAGER**  
+*Développeur Full-Stack*
+
+`Angular` `Symfony` `Nuxt.js` `SQL`
+
+Solutions web performantes et architectures scalables pour l'entreprise.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌱 GreenWITS
-**Développeur - OptiWITS**
-- React & Python
-- Base de données MongoDB
-- Solutions d'optimisation
+**GreenWITS**  
+*Développeur - OptiWITS*
+
+`React` `Python` `MongoDB`
+
+Développement de solutions d'optimisation avec technologies modernes.
 
 </td>
 </tr>
@@ -56,133 +69,103 @@ const leo = {
 
 ---
 
-## 🎯 Projets Phares
+## 🎯 Projets
 
 <div align="center">
 
-### 🚗 [ModNation.fr](https://modnation.fr)
-**Créateur & Propriétaire**
+<table>
+<tr>
+<td width="50%" align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### [ModNation.fr](https://modnation.fr)
+**Projet Personnel**
 
-Plateforme communautaire pour les passionnés de ModNation Racers
+<img src="https://img.shields.io/badge/React-000?style=flat&logo=react&logoColor=FF4D00"/> <img src="https://img.shields.io/badge/Laravel-000?style=flat&logo=laravel&logoColor=FF4D00"/> <img src="https://img.shields.io/badge/Python-000?style=flat&logo=python&logoColor=FF4D00"/> <img src="https://img.shields.io/badge/MySQL-000?style=flat&logo=mysql&logoColor=FF4D00"/>
 
----
+Plateforme communautaire dédiée aux passionnés de ModNation Racers. Architecture full-stack moderne.
 
-### 🚐 [CampingCarPartner.fr](https://campingcarpartner.fr)
-**Créateur**
+</td>
+<td width="50%" align="center">
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### [CampingCarPartner.fr](https://campingcarpartner.fr)
+**Projet Client**
 
-Solution web pour la communauté camping-car
+<img src="https://img.shields.io/badge/PHP-000?style=flat&logo=php&logoColor=FF4D00"/> <img src="https://img.shields.io/badge/jQuery-000?style=flat&logo=jquery&logoColor=FF4D00"/> <img src="https://img.shields.io/badge/MySQL-000?style=flat&logo=mysql&logoColor=FF4D00"/>
+
+Développement d'une solution web complète pour la communauté camping-car.
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🛠️ Stack Technique
+## 🛠️ Technologies
 
 <div align="center">
 
-### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<table>
+<tr>
+<td align="center" width="25%">
 
-### Backend
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Frontend**
 
-### Bases de données
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<img src="https://skillicons.dev/icons?i=angular,react,nuxtjs,jquery,html,css,js&theme=dark" />
 
-### Outils & Autres
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+</td>
+<td align="center" width="25%">
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=symfony,laravel,php,python&theme=dark" />
+
+</td>
+<td align="center" width="25%">
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+
+</td>
+<td align="center" width="25%">
+
+**Outils**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📊 Statistiques GitHub
-
-<div align="center">
-  
-![Léo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo-BERNARD38&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-BERNARD38&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Leo-BERNARD38&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)
-
-</div>
-
----
-
-## 🏆 Trophées GitHub
-
-<div align="center">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=Leo-BERNARD38&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
----
-
-## 📈 Activité
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Leo-BERNARD38&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&hide_border=true)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Leo-BERNARD38&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FF4D00&icon_color=FF4D00&text_color=ffffff&border_radius=10" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Leo-BERNARD38&theme=dark&hide_border=true&background=000000&stroke=FF4D00&ring=FF4D00&fire=FF4D00&currStreakLabel=ffffff&border_radius=10" />
 
-</div>
-
----
-
-## 💡 Citation du jour
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 📫 Me contacter
-
-<div align="center">
-
-💼 Disponible pour des **opportunités** et des **collaborations** intéressantes !
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visitez_mon_site-FF5722?style=for-the-badge)](https://leo-bernard38.github.io/portfolio-2026/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connectons--nous-0077B5?style=for-the-badge)](https://www.linkedin.com/in/l%C3%A9o-bernard-wnt)
-[![Email](https://img.shields.io/badge/📧_Email-leobernard7@gmail.com-D14836?style=for-the-badge)](mailto:leobernard712@gmail.com)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-### ⭐ N'hésitez pas à explorer mes repositories et à les star si vous les trouvez utiles !
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Leo-BERNARD38.Leo-BERNARD38)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-BERNARD38&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FF4D00&text_color=ffffff&border_radius=10" />
 
 </div>
 
 ---
 
 <div align="center">
-  
-**Fait avec ❤️**
+
+### 📫 Restons en contact
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4D00?style=for-the-badge&logoColor=white)](https://leo-bernard38.github.io/portfolio-2026/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF4D00?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/l%C3%A9o-bernard-wnt)
+[![Email](https://img.shields.io/badge/leobernard712@gmail.com-FF4D00?style=for-the-badge&logoColor=white)](mailto:leobernard712@gmail.com)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF4D00&height=100&section=footer" width="100%"/>
 
 </div>
